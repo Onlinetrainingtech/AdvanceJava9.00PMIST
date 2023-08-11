@@ -1,0 +1,8 @@
+package str;
+
+public class Customers 
+{
+   private int customerid;
+   
+   private String customerName;
+}
