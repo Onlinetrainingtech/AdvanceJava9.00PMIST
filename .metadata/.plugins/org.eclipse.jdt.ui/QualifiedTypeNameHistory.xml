@@ -5,11 +5,6 @@
     <fullyQualifiedTypeName name="org.hibernate.cfg.Configuration"/>
     <fullyQualifiedTypeName name="str.Vender"/>
     <fullyQualifiedTypeName name="str.Customer"/>
-    <fullyQualifiedTypeName name="org.hibernate.Criteria"/>
-    <fullyQualifiedTypeName name="org.hibernate.criterion.Restrictions"/>
-    <fullyQualifiedTypeName name="org.hibernate.criterion.Criterion"/>
-    <fullyQualifiedTypeName name="org.hibernate.criterion.Order"/>
-    <fullyQualifiedTypeName name="java.util.Iterator"/>
     <fullyQualifiedTypeName name="com.xyz.springdemo.BaseballCoach"/>
     <fullyQualifiedTypeName name="com.xyz.springdemo.TrackCoach"/>
     <fullyQualifiedTypeName name="com.xyz.springdemo.Coach"/>
@@ -37,10 +32,15 @@
     <fullyQualifiedTypeName name="com.xyz.HibernateMavenP1.Employee"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="com.xyz.example.Employee"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="java.util.HashSet"/>
     <fullyQualifiedTypeName name="java.util.Map"/>
     <fullyQualifiedTypeName name="java.util.HashMap"/>
     <fullyQualifiedTypeName name="com.xyz.Question"/>
     <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="org.hibernate.Criteria"/>
+    <fullyQualifiedTypeName name="org.hibernate.criterion.Restrictions"/>
+    <fullyQualifiedTypeName name="org.hibernate.criterion.Criterion"/>
+    <fullyQualifiedTypeName name="org.hibernate.criterion.Order"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.Iterator"/>
 </qualifiedTypeNameHistroy>
