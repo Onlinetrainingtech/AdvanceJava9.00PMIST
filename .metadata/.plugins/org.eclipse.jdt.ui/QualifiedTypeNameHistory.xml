@@ -5,13 +5,9 @@
     <fullyQualifiedTypeName name="org.hibernate.cfg.Configuration"/>
     <fullyQualifiedTypeName name="str.Vender"/>
     <fullyQualifiedTypeName name="str.Customer"/>
-    <fullyQualifiedTypeName name="com.xyz.springdemo.BaseballCoach"/>
-    <fullyQualifiedTypeName name="com.xyz.springdemo.TrackCoach"/>
-    <fullyQualifiedTypeName name="com.xyz.springdemo.Coach"/>
     <fullyQualifiedTypeName name="SetterInject.FootballPlayer"/>
     <fullyQualifiedTypeName name="com.xyz.SpellChecker"/>
     <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
-    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
     <fullyQualifiedTypeName name="com.xyz.TextEditor"/>
     <fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
@@ -43,4 +39,8 @@
     <fullyQualifiedTypeName name="org.hibernate.criterion.Order"/>
     <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="java.util.Iterator"/>
+    <fullyQualifiedTypeName name="com.xyz.springdemo.BaseballCoach"/>
+    <fullyQualifiedTypeName name="com.xyz.springdemo.TrackCoach"/>
+    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+    <fullyQualifiedTypeName name="com.xyz.springdemo.Coach"/>
 </qualifiedTypeNameHistroy>
